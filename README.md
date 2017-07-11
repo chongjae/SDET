@@ -1,3 +1,0 @@
-# SDET
-SDET TarTan Project
-

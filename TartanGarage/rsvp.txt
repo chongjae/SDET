@@ -1,2 +1,0 @@
-name=a,vehicle=aaa,start= 2017:01:18:12:00,end=2017:01:18:23:00,paid=true,spot=1
-name=b,vehicle=bbb,start= 2017:01:18:12:00,end=2017:01:18:23:00,paid=false,spot=2
